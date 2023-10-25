@@ -39,6 +39,10 @@ Whether you have a question, an opportunity or just want to say hi, let’s conn
 
 See you at [Twitter/X](https://twitter.com/Super_Siddy) and [LinkedIn](https://linkedin.com/in/siddheshthadeshwar) 😉
 
+## My Resume
+
+Open to interesting opportunities. Get my [resume here](/Siddhesh-Thadeshwar-resume.pdf)
+
 <!--
 **djsiddz/djsiddz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
