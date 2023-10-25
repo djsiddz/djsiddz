@@ -41,7 +41,7 @@ See you at [Twitter/X](https://twitter.com/Super_Siddy) and [LinkedIn](https://l
 
 ## My Resume
 
-Open to interesting opportunities. Get my [resume here](/Siddhesh-Thadeshwar-resume.pdf)
+Open to interesting opportunities. Get my <a href="/Siddhesh-Thadeshwar-resume.pdf" download="Siddhesh-Thadeshwar-resume.pdf">resume here</a>.
 
 <!--
 **djsiddz/djsiddz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
