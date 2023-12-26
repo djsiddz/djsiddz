@@ -9,6 +9,11 @@
 
 ## What's New! 🤯
 
+### __v2023.12.26__ (Latest)
+
+- 🩹 Fix link to resume download
+- 🚀 Exploring Astro!
+
 ### __v2023.10.23__
 
 - 🆕 Finally getting my Github profile updated with this special repo.
@@ -18,11 +23,12 @@
 
 - I’m an extremely skilled ~Marksman~ Engineer, former ~Special Agent of S.H.E.I.L.D.~ Co-Founder, specializing in developing (and occasionally designing) exceptional digital experiences.
 - I am known for using ~the bow and arrow~ my knowledge of working across the stack, effectively.
-- I have extremely keen eyesight and accuracy for the code, earning me my codename ~Hawkeye~ Super Siddy.
+- I have extremely keen eyesight and accuracy for the code, earning me my codename ~Hawkeye~ __Super Siddy__.
 
 ## Let's talk! 🤝
 
 💬 Ask me about:
+
 - building high-performing, self-reliant teams,
 - being an exceptional developer & peer,
 - leadership methods that work,
@@ -33,7 +39,7 @@
 - web design,
 - anything!
 
-I am excited to ~try new spells~ make a difference using code.
+🪄 I am excited to ~try new spells~ make a difference using code.
 
 Whether you have a question, an opportunity or just want to say hi, let’s connect!
 
@@ -41,7 +47,7 @@ See you at [Twitter/X](https://twitter.com/Super_Siddy) and [LinkedIn](https://l
 
 ## My Resume
 
-Open to interesting opportunities. Get my <a href="/Siddhesh-Thadeshwar-resume.pdf" download="Siddhesh-Thadeshwar-resume.pdf">resume here</a>.
+Open to interesting opportunities. Get my <a href="https://github.com/djsiddz/djsiddz/raw/main/Siddhesh-Thadeshwar-resume.pdf" download="Siddhesh-Thadeshwar-resume.pdf">resume here</a>.
 
 <!--
 **djsiddz/djsiddz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
