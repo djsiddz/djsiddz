@@ -10,7 +10,7 @@
 ## What's New! 🤯
 
 ### __v2024.02.03__ (Latest)
-- ❤️‍🩹 Improving "Books for Devs" to make it more useful and also learn Astro in detail.
+- ❤️‍🩹 Improving [Books for Devs](https://djsiddz.github.io/books-for-devs) to make it more useful and also learn Astro in detail.
 - 🏗️ Rebuilding "Next Book": Deciding on v1 objectives.
 - Considering learning Rails for contributing to some OS projects.
 
