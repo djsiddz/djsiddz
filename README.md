@@ -9,7 +9,20 @@
 
 ## What's New! 🤯
 
-### __v2024.02.03__ (Latest)
+### __v2024.02.20__ (Latest)
+- 🆕 New Astro v4 blog to understand Astro better (WIP) - [Space Ahead](https://djsiddz.github.io/space-ahead)
+- 🏗️ Rebuilding "Next Book":
+  - ✅ Tech stack update
+  - ✅ Basic landing page
+  - ✅ Barebones login page
+  - ✅ Barebones Dashboard page
+  - ✅ Error page
+  - ✅ Auth setup using supabase
+  - ⏭️ Next up: Design some basic UI
+  - ⏭️ Research on building a recommendation engine/algo.
+- 🥸 New profile created on Peerlist! [Check it out here](https://peerlist.io/siddhesht)
+
+### __v2024.02.03__
 - ❤️‍🩹 Improving [Books for Devs](https://djsiddz.github.io/books-for-devs) to make it more useful and also learn Astro in detail.
 - 🏗️ Rebuilding "Next Book": Deciding on v1 objectives.
 - Considering learning Rails for contributing to some OS projects.
@@ -48,7 +61,7 @@
 
 Whether you have a question, an opportunity or just want to say hi, let’s connect!
 
-See you at [Twitter/X](https://twitter.com/Super_Siddy) and [LinkedIn](https://linkedin.com/in/siddheshthadeshwar) 😉
+See you at [Twitter/X](https://twitter.com/Super_Siddy) [Peerlist](https://peerlist.io/siddhesht) and [LinkedIn](https://linkedin.com/in/siddheshthadeshwar) 😉
 
 ## My Resume
 
