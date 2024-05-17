@@ -102,7 +102,7 @@ See you at [Twitter/X](https://twitter.com/Super_Siddy) [Peerlist](https://peerl
 
 ## My Resume
 
-Open to interesting opportunities. Get my [resume here](https://github.com/djsiddz/djsiddz/raw/main/Siddhesh-Thadeshwar-resume.pdf).
+Open to interesting opportunities. [View my resume](https://djsiddz.github.io/djsiddz) or [Download it here](https://github.com/djsiddz/djsiddz/raw/main/Siddhesh-Thadeshwar-resume.pdf).
 
 <!--
 **djsiddz/djsiddz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
