@@ -48,9 +48,9 @@
 - Live in three countries - India, UAE (Dubai) & Canada.
 - Crunching data from multiple sources using AI & ML.
 
-__Frontend Tech Stack__: Next.js, MUI, ApexCharts, D3.js, and Cesium.
+__Frontend Tech Stack__: Next.js, Material UI, Axios, ApexCharts, D3.js, and Cesium.
 
-✨ BONUS: Our widgets integrated on [MoneyControl](https://www.moneycontrol.com/property-rates/mumbai) - India's leading financial information source!
+✨ BONUS: Our widgets are integrated on [MoneyControl](https://www.moneycontrol.com/property-rates/mumbai) - India's leading financial information source!
 
 ### Data Intelligence Services Suite | [Link](https://dataintelligence.squareyards.com/)
 
@@ -58,7 +58,7 @@ __Frontend Tech Stack__: Next.js, MUI, ApexCharts, D3.js, and Cesium.
 - Currently active services - Title Search Reports, Desktop Valuation Reports, Physical Valuation Reports, Transaction Search.
 - Upcoming services - Project Monitoring Reports.
 
-__Frontend Tech Stack__: Next.js, MUI.
+__Frontend Tech Stack__: Next.js, Material UI, Axios.
 
 ## Side Projects
 
