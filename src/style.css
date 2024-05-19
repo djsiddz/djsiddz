@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light dark;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+html,
+body {
+  font-size: 20px;
+}
+
+a {
+  @apply font-medium text-[#4472c4] underline;
+}
+
+a:hover {
+  @apply text-[#4472c4];
+}
+
+body {
+ @apply m-0 flex min-h-screen min-w-[320px] place-items-center bg-[#ffffff] font-inter text-base font-normal text-[#213547] dark:bg-[#242424] dark:text-transparent-white;
+}
+
+main {
+  @apply mx-auto flex max-w-[1000px] flex-col p-8 gap-8 my-16;
+}
+
+.contact-details {
+  @apply flex items-center flex-wrap gap-x-3 gap-y-1 text-[#595959] font-inter text-sm;
+}
+.v-divider {
+  @apply hidden collapse md:inline md:visible text-[#898989];
+}
+
+section {
+  @apply flex flex-col items-start w-full gap-3;
+}
+
+.section-heading {
+  @apply font-serif uppercase text-2xl font-bold text-[#595959];
+}
+
+.exp-list {
+  @apply flex flex-col items-start self-stretch w-full grow-0 shrink-0 basis-auto gap-3;
+}
+
+.single-exp {
+  @apply flex flex-col items-center gap-1 self-stretch w-full grow-0 shrink-0 basis-auto;
+}
+
+.exp-header {
+  @apply flex flex-col md:flex-row flex-wrap items-start justify-between self-stretch gap-x-24 w-full grow-0 shrink-0 basis-auto;
+}
+
+.company-details {
+  @apply inline-flex flex-col items-start gap-1 grow-0 shrink-0 basis-auto;
+}
+
+.company-info {
+  @apply font-inter font-bold text-base whitespace-nowrap w-fit tracking-normal;
+}
+
+.company-job-role {
+  @apply w-fit text-[#4472c4] font-inter font-bold text-xl leading-6 tracking-normal;
+}
+
+.duration {
+  @apply text-sm text-[#898989];
+}
+
+.education-list {
+  @apply flex flex-col items-start self-stretch w-full grow-0 shrink-0 basis-auto gap-5;
+}
+
+.education-item {
+  @apply flex flex-col items-start self-stretch w-full grow-0 shrink-0 basis-auto gap-1;
+}
+
+.bullets-list {
+  @apply px-4 py-2 list-disc ml-4 mb-2 space-y-1;
+}
+
