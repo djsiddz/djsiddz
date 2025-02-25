@@ -4,12 +4,21 @@
 
 - Siddhesh wants to help Engineers & Managers at all levels to grow & succeed! 🚀
 - He writes weekly on crafting quality software and collaborating effectively in teams. ✨
-- Currently, he's building a mix of B2B, B2C & internal products at __Square Yards__ as a __Tech Lead__.
+- Currently, he's looking into everything tech at __Doerscircle__ as a __Sr Full Stack Engineer__. More updates later!
+- Previously, he's worked on a mix of B2B, B2C & internal products at __Square Yards__ as a __Tech Lead__.
 - So give him a Follow on [X (fka Twitter)](https://twitter.com/Super_Siddy) and let's grow together!
 
 ## What's New! 😎
 
-### __v2024.05.17__ (Latest)
+### __v2025.02.25__ (Latest)
+
+- 🆕 Joined Doerscircle in January 2025 to DO some exciting things!
+- 🧘 Took a break during Nov & Dec 2024 to focus on my health.
+- 📅 Forming a routine as I work remotely now, hoping to find balance for a lot of coding (my side projects need attention) + other activities! 
+- 💻 Excited and exploring everything new with AI in general - Hello Cursor! 👋
+- ✍️ Getting back to writing.
+
+### __v2024.05.17__
 
 - 🆕 Added a new Projects section here!
 - 🧹 Updating my resume.
@@ -72,6 +81,10 @@ __Frontend Tech Stack__: Astro, MDX, CSS
 
 More details soon!
 
+### Working Title: Borg
+
+More details soon!
+
 ### Even more projects coming soon! 🤫
 
 ## About Siddhesh Thadeshwar ✨
@@ -98,11 +111,12 @@ More details soon!
 
 Whether you have a question, an opportunity or just want to say hi, let’s connect!
 
-See you at [Twitter/X](https://twitter.com/Super_Siddy) [Peerlist](https://peerlist.io/siddhesht) and [LinkedIn](https://linkedin.com/in/siddheshthadeshwar) 😉
+See you at [Twitter/X](https://x.com/Super_Siddy) [Peerlist](https://peerlist.io/siddhesht) and [LinkedIn](https://linkedin.com/in/siddheshthadeshwar) 😉
 
-## My Resume
+<!-- ## My Resume
 
 Open to interesting opportunities. [View my resume](https://djsiddz.github.io/djsiddz) or [Download it here](https://github.com/djsiddz/djsiddz/raw/main/Siddhesh-Thadeshwar-resume.pdf).
+-->
 
 <!--
 **djsiddz/djsiddz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
