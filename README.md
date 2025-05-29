@@ -2,51 +2,23 @@
 
 # Hi there 👋
 
-- Siddhesh wants to help Engineers & Managers at all levels to grow & succeed! 🚀
-- He writes weekly on crafting quality software and collaborating effectively in teams. ✨
-- Currently, he's looking into everything tech at __Doerscircle__ as a __Sr Full Stack Engineer__. More updates later!
-- Previously, he's worked on a mix of B2B, B2C & internal products at __Square Yards__ as a __Tech Lead__.
-- So give him a Follow on [X (fka Twitter)](https://twitter.com/Super_Siddy) and let's grow together!
+- Sid is currently building what brings him joy and writing weekly on a wide variety of topics
+  - crafting quality apps,
+  - running efficient teams,
+  - and using AI effectively.
+- Previously, he's worked on a mix of B2B, B2C & internal products at __Doerscircle__, __Square Yards__ and __Azuro__.
+- So follow his journey on [X (fka Twitter)](https://twitter.com/Super_Siddy), [Peerlist](https://peerlist.io/siddhesht) or [LinkedIn](https://linkedin.com/in/siddheshthadeshwar)!
 
-## What's New! 😎
+## Current Projects
 
-### __v2025.02.25__ (Latest)
+- [Books for Devs](https://djsiddz.github.io/books-for-devs): Curated list of books every developer must read. Ranging from Computer Science, How Things Works, Autobiographies or Biographies of People from the Tech world to get inspired from. May include fiction too.
+  - __Frontend Tech Stack__: Astro, MDX, CSS
+- Next Book
+- Borg
 
-- 🆕 Joined Doerscircle in January 2025 to DO some exciting things!
-- 🧘 Took a break during Nov & Dec 2024 to focus on my health.
-- 📅 Forming a routine as I work remotely now, hoping to find balance for a lot of coding (my side projects need attention) + other activities! 
-- 💻 Excited and exploring everything new with AI in general - Hello Cursor! 👋
-- ✍️ Getting back to writing.
-
-### __v2024.05.17__
-
-- 🆕 Added a new Projects section here!
-- 🧹 Updating my resume.
-- 🔎 Making it easy for you to know what I can do - building a personal brand.
-- 🚀 Exploring Astro!
-- 🧑‍💻 Learning about writing better tests.
-
-### __v2024.02.20__
-
-- 🆕 New Astro v4 blog to understand Astro better (WIP) - [Space Ahead](https://djsiddz.github.io/space-ahead)
-- 🏗️ Rebuilding "Next Book":
-  - ✅ Tech stack update
-  - ✅ Basic landing page
-  - ✅ Barebones login page
-  - ✅ Barebones Dashboard page
-  - ✅ Error page
-  - ✅ Auth setup using supabase
-  - ⏭️ Next up: Design some basic UI
-  - ⏭️ Research on building a recommendation engine/algo.
-- 🥸 New profile created on Peerlist! [Check it out here](https://peerlist.io/siddhesht)
-
-### __v2024.02.03__
-
-- ❤️‍🩹 Improving [Books for Devs](https://djsiddz.github.io/books-for-devs) to make it more useful and also learn Astro in detail.
-- 🏗️ Rebuilding "Next Book": Deciding on v1 objectives.
-- 🤔 Considering learning Rails for contributing to some OS projects.
-
-## Projects I've worked on
+### Even more projects coming soon! 🤫
+ 
+## Selected Past Work
 
 ### Data Intelligence Widgets | [India](https://www.squareyards.com/data-intelligence), [UAE (Dubai)](https://www.squareyards.ae/property-rates-in-dubai), [Canada](https://www.squareyards.ca/housing-market/on-toronto)
 
@@ -59,7 +31,7 @@
 
 __Frontend Tech Stack__: Next.js, Material UI, Axios, ApexCharts, D3.js, and Cesium.
 
-✨ BONUS: Our widgets are integrated on [MoneyControl](https://www.moneycontrol.com/property-rates/mumbai) - India's leading financial information source!
+✨ BONUS: These widgets are integrated on [MoneyControl](https://www.moneycontrol.com/property-rates/mumbai) - India's leading financial information source!
 
 ### Data Intelligence Services Suite | [Link](https://dataintelligence.squareyards.com/)
 
@@ -68,24 +40,6 @@ __Frontend Tech Stack__: Next.js, Material UI, Axios, ApexCharts, D3.js, and Ces
 - Upcoming services - Project Monitoring Reports.
 
 __Frontend Tech Stack__: Next.js, Material UI, Axios.
-
-## Side Projects
-
-### [Books for Devs](https://djsiddz.github.io/books-for-devs)
-
-Curated list of books every developer must read. Ranging from Computer Science, How Things Works, Autobiographies or Biographies of People from the Tech world to get inspired from. May include fiction too.
-
-__Frontend Tech Stack__: Astro, MDX, CSS
-
-### Working Title: Next Book
-
-More details soon!
-
-### Working Title: Borg
-
-More details soon!
-
-### Even more projects coming soon! 🤫
 
 ## About Siddhesh Thadeshwar ✨
 
@@ -111,7 +65,7 @@ More details soon!
 
 Whether you have a question, an opportunity or just want to say hi, let’s connect!
 
-See you at [Twitter/X](https://x.com/Super_Siddy) [Peerlist](https://peerlist.io/siddhesht) and [LinkedIn](https://linkedin.com/in/siddheshthadeshwar) 😉
+See you on [Twitter/X](https://x.com/Super_Siddy) [Peerlist](https://peerlist.io/siddhesht) or [LinkedIn](https://linkedin.com/in/siddheshthadeshwar) 😉
 
 <!-- ## My Resume
 
