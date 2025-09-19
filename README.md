@@ -11,6 +11,9 @@
 
 ## Current Projects
 
+- 🆕 **Space Ahead - Astro theme**
+  - [Source code](https://github.com/djsiddz/space-ahead) | [Demo 1](https://djsiddz.github.io/space-ahead) | [Demo 2](https://djsiddz.github.io/samay-anand) | [Download Astro Theme](https://astro.build/themes/details/space-ahead/).
+  - __Frontend Tech Stack__: Astro, Preact, Tailwind CSS
 - [Books for Devs](https://djsiddz.github.io/books-for-devs): Curated list of books every developer must read. Ranging from Computer Science, How Things Works, Autobiographies or Biographies of People from the Tech world to get inspired from. May include fiction too.
   - __Frontend Tech Stack__: Astro, MDX, CSS
 - Next Book
