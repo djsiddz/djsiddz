@@ -10,20 +10,16 @@
     "format": "prettier --write './src/**/*.{html,js,jsx,ts,tsx}'"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.19",
-    "postcss": "^8.4.38",
-    "postcss-import": "^16.1.0",
-    "prettier": "^3.2.5",
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.6",
+    "postcss-import": "^16.1.1",
+    "prettier": "^3.7.4",
     "prettier-plugin-tailwindcss": "^0.5.14",
-    "tailwindcss": "^3.4.3",
-    "vite": "^5.2.11"
+    "tailwindcss": "^3.4.19",
+    "vite": "^5.4.21"
   },
   "dependencies": {
-    "cssnano": "^7.0.1"
+    "cssnano": "^7.1.2"
   },
-  "volta": {
-    "node": "20.13.1",
-    "yarn": "4.2.2"
-  },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "pnpm@10.26.0"
 }
