@@ -10,16 +10,23 @@
     "format": "prettier --write './src/**/*.{html,js,jsx,ts,tsx}'"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.23",
+    "@tailwindcss/postcss": "^4.1.18",
     "postcss": "^8.5.6",
-    "postcss-import": "^16.1.1",
     "prettier": "^3.7.4",
-    "prettier-plugin-tailwindcss": "^0.5.14",
-    "tailwindcss": "^3.4.19",
-    "vite": "^5.4.21"
+    "prettier-plugin-tailwindcss": "^0.7.2",
+    "tailwindcss": "^4.1.18",
+    "vite": "^7.3.0"
+  },
+  "optionalDependencies": {
+    "@rollup/rollup-darwin-arm64": "^4.53.5",
+    "@rollup/rollup-darwin-x64": "^4.53.5",
+    "@rollup/rollup-linux-x64-gnu": "^4.53.5",
+    "@rollup/rollup-linux-arm64-gnu": "^4.53.5",
+    "@rollup/rollup-win32-arm64-msvc": "^4.53.5",
+    "@rollup/rollup-win32-x64-msvc": "^4.53.5"
   },
   "dependencies": {
     "cssnano": "^7.1.2"
   },
-  "packageManager": "pnpm@10.26.0"
+  "packageManager": "npm@11.7.0"
 }
